@@ -1,0 +1,5 @@
+{
+  "name": "App Locker (Android Export)",
+  "description": "A native Android App Locker built with Kotlin. Export this project to GitHub or download as ZIP to run in Android Studio.",
+  "requestFramePermissions": []
+}
